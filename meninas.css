@@ -1,0 +1,139 @@
+
+h3.text{
+ color: #696969;
+ margin-top: 15px;
+ font-size: 10px;
+}
+p.text{
+    font-family: Serif;
+    font-size: 16px;
+    margin-left: 300px;
+}
+.container{
+	align-items: center;
+}
+
+i{
+	margin-left: 700px;
+}
+img.moda{
+	padding: 15px;
+	margin-left: 550px;
+}
+img.img{
+	margin-left:450px;
+    width: 950px;
+    margin-top: 35px;
+}
+img.cards{
+	margin-top: 50px;
+	width: 600px;
+	margin-left: 300px;
+}
+img.read{
+	width: 600px;
+	margin-left: 250px;
+}
+img.moda1{
+	margin-left: 420px;
+	padding: 15px;
+}
+nav{
+	margin-left: 290px;
+}
+p.texto{
+	font-family: Serif;
+    font-size: 18px;
+    margin-left: 500px;
+}
+h3.texto{
+ margin-left: 350px;
+ color: #696969;
+ margin-top: 15px;
+ font-size: 45px;
+}
+h2.titulo{
+	font-family:Serif;
+	font-size:50px ;
+	margin-top: 30px;
+}
+p.sobre{
+	font-family: Serif;
+	font-size: 20px;
+}
+h4.titulo{
+    font-family:Serif;
+	font-size:35px ;
+	margin-top: 30px;
+}
+h6.comentario{
+	margin-top: 30px;
+}
+form.form-inline{
+	text-align: right;
+	margin-left: 350px;
+	font-size: 15px;
+
+}
+img.usuario{
+	width: 55px;
+	margin-top: 16px;
+}
+textarea.form-control{
+	margin-top: 15px;
+
+}
+img.facebok{
+	width:12px; 
+}
+a.t{
+	font-size: 9px;
+}
+label{
+	font-family:Serif;
+	font-size:15px ;
+}
+
+button.bnt{
+	font-family:arial; 
+	font-size:14px;
+	text-transform:uppercase; 
+	font-weight:700;
+	border: none;
+	padding:20px;
+	cursor: pointer;
+}
+a.nav-link:hover{
+background: #FFB6C1;
+color: #ffffff
+}
+img.insta{
+	margin-top: 50px;
+	width: 350px;
+	margin-left: 300px;
+}
+
+img.anuncio{
+	margin-top: 50px;
+	width: 350px;
+	margin-left: 300px;
+}
+
+img.topo{
+	margin-top: 20px;
+	width: 1000px;
+}
+img.redes{
+	border: 0px solid ;
+	width: 48px; 
+	height: 48px
+
+}
+
+h2.h2{
+	padding:5px;
+	font-size:35px;
+	margin-right: 45px;
+	color: #696969;
+}
+
